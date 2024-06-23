@@ -21,25 +21,25 @@ Getting Started 🚀
    MySQL Connector/J (Java)
 Setup
 
-   Clone this repository to your local machine:
+    Clone this repository to your local machine:
          https://github.com/rishithabanoth/hotel-reservationsystem.git
          
-   Configure your MySQL database settings in the HotelReservationSystem.java file:
+    Configure your MySQL database settings in the HotelReservationSystem.java file:
 
         private static final String DB_URL = "jdbc:mysql://localhost:3306/hotel_db";
         private static final String DB_USER = "your_username";
         private static final String DB_PASSWORD = "your_password";
 
-   Compile and run the application.
+     Compile and run the application.
 
-   Follow the on-screen menu options to use the system.
+     Follow the on-screen menu options to use the system.
 
 Usage 📋
 
-   Upon running the application, you'll be presented with a menu to choose your desired 
+      Upon running the application, you'll be presented with a menu to choose your desired 
      operation (reservation, viewing, editing, or exiting).
 
-  Follow the prompts to input reservation details, view current reservations, edit existing 
+      Follow the prompts to input reservation details, view current reservations, edit existing 
       bookings, and more.
 
 Contributing 🤝
